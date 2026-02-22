@@ -4,6 +4,9 @@ A full-stack RAG (Retrieval-Augmented Generation) application built with **FastA
 
 ---
 
+## TLDR;
+https://www.tldraw.com/f/ipACtpzQmB9hiLnDkBq4r?d=v451.341.1674.1021.page
+
 ## Project Structure
 
 ```
